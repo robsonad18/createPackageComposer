@@ -1,0 +1,20 @@
+{
+    "name": "robsonad18/classinstagram",
+    "description": "Classe php para ações no instagram",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "author": [
+        {
+            "name": "Robson Farias",
+            "email": "robsonfariasAD@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RobsonFarias\\IntegrationInstagram\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
